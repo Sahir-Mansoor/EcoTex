@@ -1,0 +1,13 @@
+Test accuracy: 0.6496
+
+              precision    recall  f1-score   support
+
+      cotton      0.622     0.472     0.537       108
+       denim      0.757     0.966     0.848        58
+   polyester      0.452     0.764     0.568        55
+        silk      0.701     0.587     0.639        92
+        wool      0.753     0.653     0.699        98
+
+    accuracy                          0.650       411
+   macro avg      0.657     0.688     0.658       411
+weighted avg      0.667     0.650     0.647       411

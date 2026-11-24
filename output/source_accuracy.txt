@@ -1,0 +1,10 @@
+mine: 6/13 = 0.462
+roboflow_2: 82/122 = 0.672
+textileclass7: 179/276 = 0.649
+
+REAL-WORLD (my close-up photos):
+  cotton: 1/4
+  denim: 4/4
+  silk: 0/4
+  wool: 1/1
+  overall: 6/13 = 0.462
