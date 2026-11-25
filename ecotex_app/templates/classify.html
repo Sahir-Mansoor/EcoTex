@@ -2,7 +2,7 @@
 {% block title %}Classify · EcoTex Sorter{% endblock %}
 {% block content %}
 <h1>Classify a fabric</h1>
-{% if demo %}<div class="banner">Demo mode: no trained model found, so results are placeholders. Add <code>model/ecotex_model.keras</code> for real predictions.</div>{% endif %}
+{% if demo %}<div class="banner"><b>Demo mode.</b> Results are placeholders. Reason: {{ status }}</div>{% endif %}
 
 <div class="grid two">
   <section class="card">
